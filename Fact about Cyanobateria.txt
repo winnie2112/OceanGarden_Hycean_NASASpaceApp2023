@@ -1,0 +1,13 @@
+Fact about Cyanobateria:
+- 1 kg of Cyanobacteria (a type of phytoplankton) can consume 1.83 kg of CO2 in ideal conditions [1].
+- A mature tree will capture about 22 kg of CO2 per a year [2]. Cutting down a tree will add extra 22kg of atmospheric CO2, demanding extra 12 kg of Cyanobacteria to compensate this.
+- A Tesla would produce 0.066 kg of CO2 per km [3]. The average EU citizen travelled 27 km per day [4], meaning that 1.782 kg of CO2 will be produced if that person uses a Tesla per day, demanding 0.97 kg of Cyanobacteria to compensate. 
+
+
+
+Reference
+
+[1] https://doi.org/10.3390/c8010018
+[2] https://www.eea.europa.eu/articles/forests-health-and-climate-change/key-facts/trees-help-tackle-climate-change 
+[3] https://www.eea.europa.eu/ims/co2-performance-of-new-passenger
+[4] https://transport.ec.europa.eu/news-events/news/new-mobility-patterns-study-insights-passenger-mobility-and-urban-logistics-2022-12-20_en
